@@ -19,7 +19,7 @@ export function MainScreen() {
             <Tab.Navigator>
                 <Tab.Screen name="Home" component={Tab1} />
                 <Tab.Screen name="Settings" component={Tab2} />
-                <Tab.Screen name="Settings" component={Tab3} />
+                <Tab.Screen name="Other" component={Tab3} />
             </Tab.Navigator>
         </div>
         
