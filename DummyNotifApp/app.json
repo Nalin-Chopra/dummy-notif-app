@@ -1,0 +1,12 @@
+{
+  "name": "DummyNotifApp",
+  "displayName": "DummyNotifApp",
+  "expo": {
+    "name": "DummyNotifApp",
+    "slug": "DummyNotifApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
