@@ -8,7 +8,7 @@ import {
 export function Tab2() {
     return (
         <Text>
-            THIS IS TAB 2
+            WELCOME TO TAB2
         </Text>
     )
 }
